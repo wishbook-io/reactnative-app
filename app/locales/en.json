@@ -1,0 +1,233 @@
+{
+  "common": {
+    "no": "No",
+    "yes": "Yes",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "save": "SAVE"
+  },
+  "login": {
+    "enter_mobile_number": "Enter mobile number",
+    "proceed": "Proceed",
+    "otp_pin_header_text": "A One-time Password(OTP) has been sent to your number ",
+    "otp_pin_subtext": "(Please enter the OTP to proceed)",
+    "otp_resend": "Resend otp",
+    "forgot_password": "Forgot Password ?",
+    "enter_password": "Enter Password",
+    "get_otp_on_whatsapp": "GET OTP ON WHATSAPP"
+  },
+  "routes": {
+    "select_language": "Select Language",
+    "registartion": "Complete Registration",
+    "profile": "Profile"
+  },
+  "homeNavigationDrawer": {
+    "home": "Home",
+    "catalogs": "Catalogs",
+    "brands": "Brands",
+    "rejected_buyers": "Rejected Buyers",
+    "rejected_suppliers": "Rejected Suppliers",
+    "buyer_groups": "Buyer Groups",
+    "my_brands": "My Brands",
+    "resell_earn": "Resell & Earn",
+    "categories": "Categories",
+    "sync": "Sync",
+    "share_app": "Share App",
+    "profile": "Profile",
+    "change_language": "Change Language",
+    "change_password": "Change Password",
+    "help": "Help",
+    "about_us_policies": "About us & Policies",
+    "contact_Us": "Contact Us",
+    "about_us": "About Us",
+    "logout": "Logout",
+    "support_chat": "Support Chat",
+    "settings": "Settings",
+    "faq": "FAQ"
+  },
+  "home": {
+    "credit_rating_home_tile": "Grow your business today\nBy getting Credit Rated!",
+    "apply_now": "Apply Now",
+    "latest_catalog_view": "Views on your latest\ncatalog"
+  },
+  "shareapp": {
+    "share_app_sub_txt": "Do you like Wishbook? Share the app with your friends in Textile Industry!",
+    "whatsapp": "Whatsapp",
+    "sms": "SMS",
+    "other": "Other"
+  },
+  "registration": {
+    "registration": "Complete Registration",
+    "registerwithfb": "Register with Facebook",
+    "registerwithgoogle": "Register with Google",
+    "Done": "Done",
+    "companydetails": "Company Details"
+  },
+  "changepassword": {
+    "new_password": "New Password",
+    "repeat_password": "Repeat Password",
+    "change_password": "Change Password"
+  },
+  "languageScreen": {
+    "language_title": "Select Language"
+  },
+  "categoriesScreen": {
+    "categories_title": "Categories"
+  },
+  "tabNavigator": {
+    "home": "Home",
+    "catlogs": "Catlogs",
+    "products": "Products",
+    "orders": "Orders",
+    "my_business": "My Business",
+    "more": "More"
+  },
+  "appIntro": {
+    "get_started": "GET STARTED",
+    "tutorial_one_text": "400+ New Products\nevery week",
+    "tutorial_one_sub_text": "Sarees, Kurtis, Suits, Lehengas at wholesale rates",
+    "tutorial_two_text": "Best Products from\nSurat, Ahmedabad, Jaipur etc.",
+    "tutorial_two_sub_text": "Single pieces also available for Reselling",
+    "tutorial_three_text": "Door-step Delivery!",
+    "tutorial_three_subtext": "All over India for any order size"
+  },
+  "gst": {
+    "gst": "GST",
+    "gst_no": "GST no.",
+    "add_gst_no": "Add GST no.",
+    "change_gst_no": "Change GST no.",
+    "gst_number_added_successfully": "GST number added successfully",
+    "gst_no_changed_successfully": "GST number changed successfully",
+    "gst_no_should_be_fifteen_characters": "GST number should be of 15 characters"
+  },
+  "orders": {
+    "orders": "Orders",
+    "sales_orders": "Sales Orders",
+    "leads": "Leads"
+  },
+  "profile": {
+    "profile": "Profile",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "username": "Your UserName",
+    "company_name": "Company Name",
+    "email_id": "Email ID",
+    "phone_number": "Phone Number",
+    "automatically_share_received_catlogs": "Automatically share received catalogs",
+    "save_changes": "SAVE CHANGES",
+    "select_city": "Select City",
+    "select_state": "Select State"
+  },
+  "mybussiness": {
+    "profile": "Profile",
+    "scan": "Scan",
+    "my_business": "My Business",
+    "my_orders": "My Orders",
+    "leads": "Leads",
+    "enquiries": "Enquiries",
+    "my_network": "My Network",
+    "my_products": "My Products",
+    "my_brands": "My Brands",
+    "discount_settings": "Discount Settings",
+    "add_product": "Add Product",
+    "my_followers": "My Followers",
+    "my_viewers": "My Viewers",
+    "my_wishlist": "My Wishlist",
+    "brands_i_follow": "Brands I Follow",
+    "shared_by_me": "Shared by Me",
+    "wb_money": "WB Money",
+    "wb_rewards": "WB Rewards",
+    "incentives": "Incentives",
+    "buyer_groups": "Buyer Groups",
+    "kyc_bank": "KYC and Bank Details",
+    "gst": "GST",
+    "register_new_user": "Register New User",
+    "rejected_users": "Rejected Users",
+    "rejected_buyers": "Rejected Buyers",
+    "rejected_suppliers": "Rejected Suppliers",
+    "how_to_sell": "How to Sell",
+    "payouts": "Payouts",
+    "customer_addresses": "Customer Addresses",
+    "preferences": "Preferences"
+  },
+  "discountSettings": {
+    "for_wholeseller": "For Wholeseller",
+    "cash_discount": "Cash Discount(%)",
+    "days_of_credit": "Days of credit",
+    "for_retailer": "For Retailer",
+    "for_broker": "For Broker",
+    "for_public": "For Public (for all other users)"
+  },
+  "addCatalog": {
+    "add_design": "Add Design",
+    "product_details": "Product Details",
+    "enter_catalog_name": "Enter Catalog Name",
+    "modal_bottom_subtext": "This catalog already exists. You can be a seller of this catalog, or add a different catalog.",
+    "already_seller_popup":"You are already selling this catalog. Try adding a different one",
+    "become_a_seller_of_catalog": "Become a seller of this catalog",
+    "start_selling": "Start Selling",
+    "see_details": "See Details",
+    "catalog_name": "Catalog Name",
+    "price": "Price",
+    "category": "Category:",
+    "designs": "Designs:",
+    "size": "Size :",
+    "stitching_details": "Stitching Details :",
+    "single_piece_available": "Single Piece Available",
+    "four_pcs_per_design": "4 Pcs/Design :",
+    "only_full_catalog_sale":"Only full catalog",
+    "single_catalog_sale":"Single Designs available"
+  },
+  "addbuyergroup": {
+    "addbuyergroup": "Add Buyer Group",
+    "locationwise": "Location wise",
+    "custom": "Custom",
+    "enter_group_name": "Enter Group Name",
+    "select_buyers": "Select Buyers",
+    "select_buyer_type": "Select buyer type",
+    "select_state": "Select state",
+    "select_city": "Select city",
+    "select_category": "Select categories",
+    "create": "Create"
+  },
+  "rejectbuyers": {
+    "reject_buyers": "Rejected Buyers",
+    "rejected": "Rejected"
+  },
+  "addBuyerGroupDetail": {
+    "buyers_group": "Buyers Group"
+  },
+  "buyer_group": {
+    "buyer_group": "Buyers Group"
+  },
+  "buyers_details": {
+    "buyers_details": "Buyers Details"
+  },
+  "registration_new_screen": {
+    "new_registration": "New Registration"
+  },
+  "myBrands": {
+    "my_brands": "My Brands",
+    "brands_i_own": "Brands I Own",
+    "brands_i_sell": "Brands I Sell"
+  },
+  "addBrand": {
+    "add_brand": "Add Brand",
+    "upload_image": "UPLOAD IMAGE",
+    "enter_your_brand_name": "Enter your brand name"
+  },
+  "myviewer": {
+    "my_viewers": "My Viewers",
+    "brand": "Brand :",
+    "upload": "Uploaded : ",
+    "total": "Total",
+    "price": "Price : ",
+    "catalog_viewers_state_only": "Catalog viewers from your state only"
+  },
+  "sharemessage": {
+    "share_app_message": "Hi! \nI am using Wishbook App. It is the biggest B2B platform for Women Ethnic Wear traders. You should also install Wishbook B2B App from the link ",
+    "whatsapp": "Whatsapp",
+    "sms": "SMS",
+    "other": "Other"
+  }
+}

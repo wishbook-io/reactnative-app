@@ -1,0 +1,90 @@
+diff --git a/node_modules/@react-navigation/native/package-lock.json b/node_modules/@react-navigation/native/package-lock.json
+new file mode 100644
+index 0000000..dd5480d
+--- /dev/null
++++ b/node_modules/@react-navigation/native/package-lock.json
+@@ -0,0 +1,84 @@
++{
++  "name": "@react-navigation/native",
++  "version": "3.1.5",
++  "lockfileVersion": 1,
++  "requires": true,
++  "dependencies": {
++    "hoist-non-react-statics": {
++      "version": "3.3.0",
++      "requires": {
++        "react-is": "^16.7.0"
++      }
++    },
++    "invariant": {
++      "version": "2.2.4",
++      "resolved": "https://registry.npmjs.org/invariant/-/invariant-2.2.4.tgz",
++      "integrity": "sha512-phJfQVBuaJM5raOpJjSfkiD6BpbCE4Ns//LaXl6wGYtUBY83nWS6Rf9tXm2e8VaK60JEjYldbPif/A2B1C2gNA==",
++      "requires": {
++        "loose-envify": "^1.0.0"
++      }
++    },
++    "js-tokens": {
++      "version": "4.0.0",
++      "resolved": "https://registry.npmjs.org/js-tokens/-/js-tokens-4.0.0.tgz",
++      "integrity": "sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ=="
++    },
++    "loose-envify": {
++      "version": "1.4.0",
++      "resolved": "https://registry.npmjs.org/loose-envify/-/loose-envify-1.4.0.tgz",
++      "integrity": "sha512-lyuxPGr/Wfhrlem2CL/UcnUc1zcqKAImBDzukY7Y5F/yQiNdko6+fRLevlw1HgMySw7f611UIY408EtxRSoK3Q==",
++      "requires": {
++        "js-tokens": "^3.0.0 || ^4.0.0"
++      }
++    },
++    "object-assign": {
++      "version": "4.1.1",
++      "resolved": "https://registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz",
++      "integrity": "sha1-IQmtx5ZYh8/AXLvUQsrIv7s2CGM="
++    },
++    "prop-types": {
++      "version": "15.7.2",
++      "resolved": "https://registry.npmjs.org/prop-types/-/prop-types-15.7.2.tgz",
++      "integrity": "sha512-8QQikdH7//R2vurIJSutZ1smHYTcLpRWEOlHnzcWHmBYrOGUysKwSsrC89BCiFj3CbrfJ/nXFdJepOVrY1GCHQ==",
++      "requires": {
++        "loose-envify": "^1.4.0",
++        "object-assign": "^4.1.1",
++        "react-is": "^16.8.1"
++      }
++    },
++    "react-is": {
++      "version": "16.8.5",
++      "resolved": "https://registry.npmjs.org/react-is/-/react-is-16.8.5.tgz",
++      "integrity": "sha512-sudt2uq5P/2TznPV4Wtdi+Lnq3yaYW8LfvPKLM9BKD8jJNBkxMVyB0C9/GmVhLw7Jbdmndk/73n7XQGeN9A3QQ=="
++    },
++    "react-native-gesture-handler": {
++      "version": "git://github.com/kmagiera/react-native-gesture-handler.git#a28085052a8052043558caf3760031160cce1b57",
++      "from": "git://github.com/kmagiera/react-native-gesture-handler.git#a280850",
++      "requires": {
++        "hoist-non-react-statics": "^2.3.1",
++        "invariant": "^2.2.2",
++        "prop-types": "^15.5.10"
++      },
++      "dependencies": {
++        "hoist-non-react-statics": {
++          "version": "2.5.5",
++          "resolved": "https://registry.npmjs.org/hoist-non-react-statics/-/hoist-non-react-statics-2.5.5.tgz",
++          "integrity": "sha512-rqcy4pJo55FTTLWt+bU8ukscqHeE/e9KWvsOW2b/a3afxQZhwkQdT1rPPCJ0rYXdj4vNcasY8zHTH+jF/qStxw=="
++        }
++      }
++    },
++    "react-native-safe-area-view": {
++      "version": "0.13.1",
++      "requires": {
++        "hoist-non-react-statics": "^2.3.1"
++      },
++      "dependencies": {
++        "hoist-non-react-statics": {
++          "version": "2.5.5",
++          "resolved": "https://registry.npmjs.org/hoist-non-react-statics/-/hoist-non-react-statics-2.5.5.tgz",
++          "integrity": "sha512-rqcy4pJo55FTTLWt+bU8ukscqHeE/e9KWvsOW2b/a3afxQZhwkQdT1rPPCJ0rYXdj4vNcasY8zHTH+jF/qStxw=="
++        }
++      }
++    }
++  }
++}

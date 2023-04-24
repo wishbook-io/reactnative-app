@@ -1,0 +1,103 @@
+{
+  "project_info": {
+    "project_number": "479030482746",
+    "firebase_url": "https://wishbook-1229.firebaseio.com",
+    "project_id": "wishbook-1229",
+    "storage_bucket": "wishbook-1229.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479030482746:android:6a30bd1c645ce2ed",
+        "android_client_info": {
+          "package_name": "com.wishbook.catalog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479030482746-b654rbaap99btg4r08rus8jqbvrj7b4e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wishbook.catalog",
+            "certificate_hash": "6d4a8ae613a1f1520a162e83bbcb26cde6c4e009"
+          }
+        },
+        {
+          "client_id": "479030482746-be5d73udi27fm23093b7fcok12c109jo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wishbook.catalog",
+            "certificate_hash": "6f35d595f793a79ff5d0973298ab07ad28bb33d3"
+          }
+        },
+        {
+          "client_id": "479030482746-d7npe9dajhek24j26jumtk6jgakb9f5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wishbook.catalog",
+            "certificate_hash": "4561a1213d64b1a0c7c17eaeabb56cbbb25ee896"
+          }
+        },
+        {
+          "client_id": "479030482746-sodkhrq3unhsb56apt577b6jq90lm3pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL6O8u1VBwfR9y_qMo0h4BKko0v16QABY"
+        },
+        {
+          "current_key": "AIzaSyBxHVR-jaUKZHiTtlWGyE5Yd14z7N7wjgg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479030482746:android:47506fbc9d3a82a1",
+        "android_client_info": {
+          "package_name": "com.wishbook.catalogone.sales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479030482746-sodkhrq3unhsb56apt577b6jq90lm3pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL6O8u1VBwfR9y_qMo0h4BKko0v16QABY"
+        },
+        {
+          "current_key": "AIzaSyBxHVR-jaUKZHiTtlWGyE5Yd14z7N7wjgg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,46 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'wishbook' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+   use_frameworks!
+   #pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+   # pod 'FreshchatSDK', :path=> '../node_modules/react-native-freshchat-sdk/ios/FreshchatSDK.podspec'
+
+  # Pods for wishbook
+  pod 'GoogleSignIn'
+
+  target 'wishbook-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+
+
+
+  end
+
+  target 'wishbookTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
+
+target 'wishbook-tvOS' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for wishbook-tvOS
+
+  
+
+end
+
+platform :ios, '8.0'
+pod 'Firebase'
+pod 'Firebase/Messaging'
+pod 'Fabric'
+pod 'Crashlytics'
+source 'https://github.com/CocoaPods/Specs.git'
+
+pod 'FreshchatSDK'
+

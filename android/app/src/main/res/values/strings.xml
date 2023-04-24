@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">rWishbook</string>
+    <string name="freshchat_file_provider_authority">com.wishbook.catalogone.sales.provider</string>
+</resources>
